@@ -1,20 +1,4 @@
 Respuestas a las preguntas de la pŕactica 3
 1-¿Cuál es el propósito de trabajar con multiples ramas?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-¿Cuál es la ventaja de reorganizar (rebase)?
+2-¿Qué es una reorganización (rebase)?
+3-¿Cuál es la ventaja de reorganizar (rebase)?
